@@ -1,0 +1,62 @@
+olddiv #homeLinks {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	border-top: 4px solid #990d5f;
+	border-bottom: 4px solid #cfc2b2;
+	background-color: #e8ded1;
+	color: #403c39;
+}
+olddiv #homeLinks UL {
+	width: 100%;
+	list-style: none outside;
+	margin: 0;
+	padding: 0; }
+olddiv #homeLinks UL LI {
+	display: block;
+	height: 82px;
+	margin: 0;
+	padding: 0;
+	border: none;
+	border-top: 1px solid #f7f2ec;
+}
+olddiv #homeLinks UL LI DIV {
+	padding: 5px 10px 5px 50px;
+	font-size: 90%;
+}
+
+olddiv #homeLinks UL LI#L01 {
+	background: transparent url("/img/portlet/house/legList_01.jpg") left no-repeat;
+}
+olddiv #homeLinks UL LI#L02 {
+	background: transparent url("/img/portlet/house/legList_02.jpg") left no-repeat;
+}
+olddiv #homeLinks UL LI#L03 {
+	background: transparent url("/img/portlet/house/legList_03.jpg") left no-repeat;
+}
+olddiv #homeLinks UL LI#L04 {
+	background: transparent url("/img/portlet/house/legList_04.jpg") left no-repeat;
+}
+olddiv #homeLinks UL LI#L05 {
+	background: transparent url("/img/portlet/house/legList_05.jpg") left no-repeat;
+}
+olddiv #homeLinks UL LI#L06 {
+	background: transparent url("/img/portlet/house/legList_06.jpg") left no-repeat;
+}
+
+olddiv #homeLinks UL LI#cumCD {
+	background: #d0c8bd url("/img/portlet/house/legList_00.jpg") left no-repeat;
+}
+olddiv #homeLinks UL LI#cumCD DIV {
+	border-top: 3px solid #32434f;
+	padding: 16px 10px 10px 50px;
+	color: #403c39;
+}
+
+olddiv .blockLink {
+	font: bold 130%/150% verdana, lucida, helvetica, arial, sans-serif;
+	color: #32434f;
+	font-variant: small-caps;
+	letter-spacing: 1px;
+	white-space: nowrap;
+}
