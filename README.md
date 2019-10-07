@@ -65,3 +65,14 @@ With [teiPublisher](https://teipublisher.com)
 Slovenian example: [https://exist.sistory.si/exist/apps/parla/](https://exist.sistory.si/exist/apps/parla/)
 
 Concordancer: [siParl](https://www.clarin.si/noske/run.cgi/corp_info?corpname=siparl&struct_attr_stats=1) in NoSkech Engine
+
+## Examples from CEE countries
+
+In directory with country code (ISO 3166-1 alpha-2) name.
+
+Mostly original PDF converted to Word document with ABBYY FineReader - optical
+character recognition (OCR) application: AT, CZ, DE, HR, HU, MD, ME, SI, UK, YU
+
+Some original Word document: MK, RS
+
+In some cases, I found only HTML webpages: BG, RO, SK
