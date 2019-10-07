@@ -8,6 +8,13 @@
 - Directly from the parliamentary office!
 - Examples for each country in this GitHub repository :-)
 
+## What we need for this workshop?
+
+Microsoft Word. Get your [free trail version](https://products.office.com/en-us/try)
+
+Oxygen XML Editor. Get your [free trial license key](https://www.oxygenxml.com/xml_editor/register.html) for all products.
+
+
 ## To begin with, an example from Parla-CLARIN
 
 [Parla-CLARIN](https://github.com/clarin-eric/parla-clarin) example in [this repository](https://github.com/DARIAH-SI/CPC/tree/master/parla-clarin).
